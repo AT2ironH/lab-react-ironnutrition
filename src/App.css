@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.wholeFoodBox {
+  display:flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.box {
+  width: 500px;
+}
+
+.foodTotal{
+  display: flex;
+  justify-content: space-around;
+  font-weight: 600;
+  font-size: 20px;
+}
